@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals - 23/11/2023
+# GitHub Actions Fundamentals - Thursday, 23/11/2023
 
 Repo for the `GitHub Actions Fundamentals` training.
 
